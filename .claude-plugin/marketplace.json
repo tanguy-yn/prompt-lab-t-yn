@@ -1,5 +1,5 @@
 {
-  "name": "plugin-prompt-lab-t-yn",
+  "name": "prompt-lab-t-yn",
   "owner": {
     "name": "tanguy-yn"
   },
@@ -8,7 +8,7 @@
       "name": "prompt-lab",
       "source": {
         "source": "github",
-        "repo": "tanguy-yn/plugin-prompt-lab-t-yn",
+        "repo": "tanguy-yn/prompt-lab-t-yn",
         "ref": "main"
       },
       "description": "Atelier de prompts pour le marketing digital",
