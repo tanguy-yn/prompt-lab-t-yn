@@ -6,7 +6,11 @@
   "plugins": [
     {
       "name": "prompt-lab",
-      "source": "https://github.com/tanguy-yn/plugin-prompt-lab-t-yn.git",
+      "source": {
+        "source": "github",
+        "repo": "tanguy-yn/plugin-prompt-lab-t-yn",
+        "ref": "main"
+      },
       "description": "Atelier de prompts pour le marketing digital",
       "version": "1.0.0",
       "author": {
